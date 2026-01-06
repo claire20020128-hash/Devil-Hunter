@@ -1,0 +1,157 @@
+[
+  {
+    "keyword_raw": "devil hunter codes",
+    "slug": "devil-hunter-codes",
+    "intent": "codes",
+    "updated_at": "2026-01-06",
+    "ai_summary": "Redeem codes in Devil Hunter to get free in-game rewards like currencies, boosts, and exclusive items. Check back regularly for new codes.",
+    "ai_points": [
+      "Codes are case-sensitive when redeeming",
+      "Expired codes will not work",
+      "Find the redeem button in the main menu settings",
+      "Follow official social media for new code releases"
+    ],
+    "links": {}
+  },
+  {
+    "keyword_raw": "devil hunter trello",
+    "slug": "devil-hunter-trello",
+    "intent": "trello",
+    "updated_at": "2026-01-05",
+    "ai_summary": "The Devil Hunter Trello board contains detailed information about game updates, patch notes, feature releases, and community announcements.",
+    "ai_points": [
+      "Check the board for upcoming content roadmap",
+      "Find detailed patch notes and bug fixes",
+      "See community event schedules"
+    ],
+    "links": {}
+  },
+  {
+    "keyword_raw": "devil hunter discord",
+    "slug": "devil-hunter-discord",
+    "intent": "discord",
+    "updated_at": "2026-01-04",
+    "ai_summary": "Join the Devil Hunter Discord community server to connect with other players, share tips, and stay updated on game news. This is a community-run server.",
+    "ai_points": [
+      "Chat with other players in different channels",
+      "Find teammates for co-op gameplay",
+      "Get quick answers from experienced players",
+      "Community-run (not official)"
+    ],
+    "links": {}
+  },
+  {
+    "keyword_raw": "devil hunter wiki",
+    "slug": "devil-hunter-wiki",
+    "intent": "wiki",
+    "updated_at": "2026-01-03",
+    "ai_summary": "The Devil Hunter Wiki provides comprehensive documentation on game mechanics, character stats, weapons, locations, and boss guides.",
+    "ai_points": [
+      "Look up detailed weapon information and stats",
+      "Find boss guides and strategy tips",
+      "Learn about game mechanics and systems",
+      "Explore location guides and collectibles"
+    ],
+    "links": {}
+  },
+  {
+    "keyword_raw": "devil hunter best tier list",
+    "slug": "devil-hunter-best-tier-list",
+    "intent": "tier_list",
+    "updated_at": "2026-01-02",
+    "ai_summary": "Community-voted tier lists rank weapons, characters, and abilities based on power level and usefulness in the current meta.",
+    "ai_points": [
+      "S-tier weapons are the most powerful",
+      "Tier lists are updated after balance changes",
+      "Consider your playstyle when choosing equipment",
+      "Lower tier items can still be viable with skill"
+    ],
+    "links": {}
+  },
+  {
+    "keyword_raw": "how to get meowy location",
+    "slug": "how-to-get-meowy-location",
+    "intent": "guide",
+    "updated_at": "2026-01-01",
+    "ai_summary": "Meowy is a special NPC that can be found in a hidden location. Follow these steps to locate and interact with this unique character.",
+    "ai_points": [
+      "Meowy is located in the Eastern Forest area",
+      "Requires level 15+ to access the area",
+      "Brings special rewards when visited",
+      "Can only be encountered once per save"
+    ],
+    "links": {}
+  },
+  {
+    "keyword_raw": "devil hunter best weapons progression guide",
+    "slug": "devil-hunter-best-weapons-progression-guide",
+    "intent": "guide",
+    "updated_at": "2025-12-31",
+    "ai_summary": "A comprehensive guide on weapon progression in Devil Hunter, from early-game starter weapons to late-game endgame equipment.",
+    "ai_points": [
+      "Start with basic swords in the beginner area",
+      "Upgrade weapons at the blacksmith using materials",
+      "Rare weapons have unique abilities and perks",
+      "Weapon choice affects your playstyle significantly",
+      "Farm materials from different enemy types"
+    ],
+    "links": {}
+  },
+  {
+    "keyword_raw": "devil hunter exploit script warning",
+    "slug": "devil-hunter-exploit-script-warning",
+    "intent": "risk",
+    "updated_at": "2025-12-30",
+    "ai_summary": "WARNING: Using exploits, scripts, or cheats in Devil Hunter violates Roblox Terms of Service and can result in permanent account suspension.",
+    "ai_points": [
+      "Roblox strictly prohibits exploiting and cheating",
+      "Account termination can be permanent",
+      "Many 'exploit' tools contain malware",
+      "Report suspicious behavior to Roblox support",
+      "Play fair and enjoy the game legitimately"
+    ],
+    "links": {}
+  },
+  {
+    "keyword_raw": "devil hunter clans divisions guide",
+    "slug": "devil-hunter-clans-divisions-guide",
+    "intent": "guide",
+    "updated_at": "2025-12-29",
+    "ai_summary": "Learn about the clan system in Devil Hunter, including how to join or create a clan, climb divisions, and participate in clan wars.",
+    "ai_points": [
+      "Clans provide group bonuses and perks",
+      "Participate in clan wars for rewards",
+      "Earn clan points to unlock exclusive gear",
+      "Higher divisions require more cooperation"
+    ],
+    "links": {}
+  },
+  {
+    "keyword_raw": "devil hunter daily quests contracts",
+    "slug": "devil-hunter-daily-quests-contracts",
+    "intent": "guide",
+    "updated_at": "2025-12-28",
+    "ai_summary": "Complete daily contracts to earn experience and rewards in Devil Hunter. These quests refresh daily and offer consistent progression.",
+    "ai_points": [
+      "Each daily contract rewards experience points",
+      "Some contracts give rare crafting materials",
+      "Complete streaks for bonus rewards",
+      "Difficulty scales with your level"
+    ],
+    "links": {}
+  },
+  {
+    "keyword_raw": "devil hunter items locations collectibles",
+    "slug": "devil-hunter-items-locations-collectibles",
+    "intent": "guide",
+    "updated_at": "2025-12-27",
+    "ai_summary": "A comprehensive guide to finding rare items, hidden collectibles, and secret locations throughout the Devil Hunter world.",
+    "ai_points": [
+      "Collectibles unlock achievement rewards",
+      "Some items are hidden in hard-to-reach places",
+      "Use the map to locate collection points",
+      "Some items respawn on a daily basis"
+    ],
+    "links": {}
+  }
+]
