@@ -43,11 +43,17 @@ export default function RootLayout({
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6619394158676043"
           crossOrigin="anonymous"
         ></script>
+        <script
+          async="async"
+          data-cfasync="false"
+          src="https://pl28426056.effectivegatecpm.com/a3abe7bd5a25fc325cc119d993ad6bd9/invoke.js"
+        ></script>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
+        <div id="container-a3abe7bd5a25fc325cc119d993ad6bd9"></div>
       </body>
     </html>
   );
