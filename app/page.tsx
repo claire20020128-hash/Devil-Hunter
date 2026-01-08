@@ -41,6 +41,11 @@ export default function Home() {
 
         {/* Keyword List */}
         <KeywordList keywords={filteredKeywords} config={config} />
+
+        {/* Adsterra Ad Container */}
+        <div className="my-8 flex justify-center">
+          <div id="container-a3abe7bd5a25fc325cc119d993ad6bd9"></div>
+        </div>
       </main>
 
       {/* Footer */}

@@ -39,12 +39,10 @@ export default function RootLayout({
           `}
         </Script>
         <Script
-          async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6619394158676043"
           strategy="afterInteractive"
         />
         <Script
-          id="adsterra-script"
           src="https://pl28426056.effectivegatecpm.com/a3abe7bd5a25fc325cc119d993ad6bd9/invoke.js"
           strategy="afterInteractive"
           async
