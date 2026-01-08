@@ -38,16 +38,18 @@ export default function RootLayout({
             gtag('config', 'G-2FZLNB35B5');
           `}
         </Script>
-        <script
+        <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6619394158676043"
-          crossOrigin="anonymous"
-        ></script>
-        <script
-          async="async"
-          data-cfasync="false"
+          strategy="afterInteractive"
+        />
+        <Script
+          id="adsterra-script"
           src="https://pl28426056.effectivegatecpm.com/a3abe7bd5a25fc325cc119d993ad6bd9/invoke.js"
-        ></script>
+          strategy="afterInteractive"
+          async
+          data-cfasync="false"
+        />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
